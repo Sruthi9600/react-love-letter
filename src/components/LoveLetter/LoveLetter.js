@@ -35,10 +35,12 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        mah dear kundanapu bomma🖤,<br />
-        never have i been so blessed as to fall in love with someone as wonderful as you...<br />i loveeee youuuu :)<br />
-        always yours,<br />
-        @niihaaarrrr
+        My dear Rakshasi 🧛‍♀️😈,
+        Happy birthday, My Love❤️.
+        Keep smiling all the time. Nvu anukunavi anii jaragali jaruguthayi. You will achieve your goals and I will always be there for you. Wishing you a good health and God bless you raa. And one last and important thing koncham over anukoku 😅 but yeah. If you are seetha I will be your ram, if you are Taani I will be your Surinder Sahni,if you are yashna I will be your viraj. Finally , If you are DR. RESHMA SAHITHI DANGETI I will be your SYAM PRAKASH RAJ VEMURI ❤️😁. Love you raa Bngru thalli 😘. 
+
+        With lots of lots of lots of love 💕 
+        Ni SYAM PRAKASH RAJ VEMURI.
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
     </div>
